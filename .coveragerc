@@ -1,8 +1,8 @@
 [run]
-source = project_name
+source = zihin_api
 
 [report]
 omit =
     */python?.?/*
     */site-packages/nose/*
-    project_name/__main__.py
+    zihin_api/__main__.py
